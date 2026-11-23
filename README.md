@@ -1,5 +1,7 @@
 # LintData
 
+<a href="https://github.com/Patels-Labs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-on-dark.png"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-on-light.png" height="40"></picture></a>
+
 <div align="center">
 
 [![PyPI](https://img.shields.io/pypi/v/lintdata)](https://pypi.org/project/lintdata) [![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/patelheet30/lintdata/actions/workflows/ci.yml/badge.svg)](https://github.com/patelheet30/lintdata/actions/workflows/ci.yml)
