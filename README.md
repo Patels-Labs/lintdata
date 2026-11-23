@@ -1,5 +1,7 @@
 # LintData
 
+<a href="https://github.com/Patels-Labs"><img src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/readme-mark.png" alt="" height="22" align="absmiddle"></a>&nbsp; A <a href="https://github.com/Patels-Labs"><b>Patel's Labs</b></a> project
+
 <div align="center">
 
 [![PyPI](https://img.shields.io/pypi/v/lintdata)](https://pypi.org/project/lintdata) [![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/patelheet30/lintdata/actions/workflows/ci.yml/badge.svg)](https://github.com/patelheet30/lintdata/actions/workflows/ci.yml)
@@ -127,9 +129,3 @@ Full documentation available at: [LintData Documentation](https://lintdata.patel
 For general help or to report bugs, please open an issue on GitHub: [LintData Issues](https://github.com/patelheet30/lintdata/issues).
 
 If you have questions or need assistance, feel free to reach out via Discord: patelheet30
-
----
-
-<p align="center">
-  <a href="https://github.com/Patels-Labs"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-light.png#gh-light-mode-only" height="40"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-dark.png#gh-dark-mode-only" height="40"></a>
-</p>
