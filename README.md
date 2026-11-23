@@ -127,3 +127,14 @@ Full documentation available at: [LintData Documentation](https://lintdata.patel
 For general help or to report bugs, please open an issue on GitHub: [LintData Issues](https://github.com/patelheet30/lintdata/issues).
 
 If you have questions or need assistance, feel free to reach out via Discord: patelheet30
+
+---
+
+<p align="center">
+  <a href="https://github.com/Patels-Labs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-dark.png">
+      <img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-light.png" height="40">
+    </picture>
+  </a>
+</p>
